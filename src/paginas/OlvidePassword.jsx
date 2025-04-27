@@ -41,7 +41,7 @@ const OlvidePassword = () => {
   return (
     <>
         <div>
-            <h1 className="text-teal-600 font-black text-6xl">Recupera tu Acceso y no Pierdas <span className="text-black">tus Clientes</span></h1>
+            <h1 className="text-teal-600 font-black text-6xl">Recupera tu Acceso y no Pierdas <span className="text-black">tus Recolecciones</span></h1>
         </div>
 
         <div className='mt-20 md:mt-5 shadow-lg px-5 py-10 rounded-xl bg-white'>
